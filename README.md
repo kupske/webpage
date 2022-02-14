@@ -1,12 +1,3 @@
----
-title: Dr Felipe Flores Kupske
-output: 
-  html_document:
-    theme:
-      bootswatch: yeti
----
-# {.tabset .tabset-fade .tabset-pills}
-
 ## About me
 
 Full professor (with tenure) of English and English Phonetics and Phonology, Department of English, [*Universidade Federal da Bahia*](https://letras.ufba.br/), Brazil.
