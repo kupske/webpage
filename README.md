@@ -4,8 +4,6 @@ Full professor (with tenure) of English and English Phonetics and Phonology, Dep
 
 Professor at the [Graduate Program in Language and Culture](http://www.ppglinc.ufba.br/pt-br) (PPGLinC), *Universidade Federal da Bahia*, Brazil. 
 
-Head of the Speech Sciences Laboratory (LAFALA-UFBA)
-
 I teach courses related to English phonetics and phonology, second language acquisition and linguistic theory. I direct the Speech Sciences Laboratory (LAFALA-UFBA). My main activities address the development, the attrition and the interaction between speech perception and production, drawing on ideas from sociophonetics and experimental phonetics. My current research aims to investigate language attrition with a focus on how bilinguals change their abilities to produce and perceive their L1 in L2‐dominant settings.
 <br>
 
