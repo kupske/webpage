@@ -1,4 +1,4 @@
-<span style="color: teal;"> ## Felipe Flores Kupske
+## Felipe Flores Kupske
 
 Full professor (with tenure) of English and English Phonetics and Phonology, Department of English, [*Universidade Federal da Bahia*](https://letras.ufba.br/), Brazil.
 
