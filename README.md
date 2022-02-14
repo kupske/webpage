@@ -31,15 +31,6 @@ I teach courses related to English phonetics and phonology, second language acqu
 <br>
 [Orcid id](https://orcid.org/0000-0002-0616-612X){target="\_blank"}
 
-<center>
-Video
-</center>
-<center>
-<a href="https://www.youtube.com/watch?v=-K4GGSkHsXo
-" target="_blank"><img src="http://img.youtube.com/vi/K4GGSkHsXo/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
-</center>
-<br>
 
 
 ## CV
