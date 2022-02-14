@@ -24,13 +24,13 @@ I teach courses related to English phonetics and phonology, second language acqu
 <br>
 **Other Links**
 <br>
-[Lattes](http://lattes.cnpq.br/5896539533884923){target="\_blank"}
+[Lattes](http://lattes.cnpq.br/5896539533884923)
 <br>
-[Researchgate](https://www.researchgate.net/profile/Felipe-Kupske){target="\_blank"}
+[Researchgate](https://www.researchgate.net/profile/Felipe-Kupske)
 <br>
-[Instagram](https://www.instagram.com/felipekupske/?hl=pt-br){target="\_blank"}
+[Instagram](https://www.instagram.com/felipekupske/?hl=pt-br)
 <br>
-[Orcid id](https://orcid.org/0000-0002-0616-612X){target="\_blank"}
+[Orcid id](https://orcid.org/0000-0002-0616-612X)
 
 
 
