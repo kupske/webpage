@@ -20,6 +20,7 @@ I teach courses related to English phonetics and phonology, second language acqu
 |(2012 - 2017) | Professor of English and English Linguistics, *Universidade Comunitária da Região de Chapecó*, Department of Humanities, Brazil.  |  
 |(2010 - 2011) | Assistant Professor of English, *Universidade Federal de Santa Maria*, Department of Modern Languages, Brazil. |  
 |(2007 - 2009) | Tutor of Brazilian Portuguese, *University of Nottingham*, England.  | 
+
 <br>
 **Other Links**
 <br>
