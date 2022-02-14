@@ -1,4 +1,4 @@
-## About me
+<span style="color: teal;"> ## Felipe Flores Kupske
 
 Full professor (with tenure) of English and English Phonetics and Phonology, Department of English, [*Universidade Federal da Bahia*](https://letras.ufba.br/), Brazil.
 
@@ -9,7 +9,7 @@ Head of the Speech Sciences Laboratory (LAFALA-UFBA)
 I teach courses related to English phonetics and phonology, second language acquisition and linguistic theory. I direct the Speech Sciences Laboratory (LAFALA-UFBA). My main activities address the development, the attrition and the interaction between speech perception and production, drawing on ideas from sociophonetics and experimental phonetics. My current research aims to investigate language attrition with a focus on how bilinguals change their abilities to produce and perceive their L1 in L2‐dominant settings.
 <br>
 
-**Academic Appointments**
+<span style="color: teal;"> **Academic Appointments**
 <br>
 
 | Period  |  Appointment |  
